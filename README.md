@@ -19,7 +19,7 @@ Developed with Unity3d uing C#. It's a 2d game for freetime.
 
 # Download
 <p align="center">
-  <a href="" target="https://play.google.com/store/apps/details?id=com.erdemsiyam.memorizeyourwords">
+  <a href="https://play.google.com/store/apps/details?id=com.erdemsiyam.collision" target="_blank">
     <img src="images/googlePlayDownload.png">
   </a>
 </p>
